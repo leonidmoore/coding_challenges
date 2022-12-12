@@ -29,7 +29,7 @@ function getPokemon(){
     let pokemonId = document.getElementById("pokemonId").value; //only works with input type
     console.log(pokemonId);
 
-    /**
+    /*
      * How does AJAX work here?
      * 
      * 1) An XMLHttpRequest Object is created
