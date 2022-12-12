@@ -24,7 +24,7 @@ document.getElementById("pokemonButton").addEventListener('click',getPokemon);
 
 //I'm sending a GET request to the Poke API
 function getPokemon(){
-    
+    dsfsdfsdf
     //From the User I will require a number or name, or some kind of input. I'm choosing number
     let pokemonId = document.getElementById("pokemonId").value; //only works with input type
     console.log(pokemonId);
